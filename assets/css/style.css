@@ -1,3 +1,7 @@
-#loadingMsg{
+.loadingMsg,.errorMsg{
   display:none;
+}
+
+.shown{
+  display:block;
 }
